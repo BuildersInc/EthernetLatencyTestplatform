@@ -1,4 +1,10 @@
-# ESP Hardware
+# Ethernet Latency Testplatform
+
+Used to measure the time difference
+within the Ethernet communication between
+two uC's
+
+Created for my Bachelor Thesis 
 
 ## ESP 32 Pinout
 
@@ -19,6 +25,6 @@
 |27    |CRS                     |
 
 
-## Was musste am PHY geändert werden?
+## Necessary Modifications
 
 - Remove ClockGen from LAN8720 Board and use ESP32 as source
