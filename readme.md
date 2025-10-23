@@ -4,7 +4,14 @@ Used to measure the time difference
 within the Ethernet communication between
 two uC's
 
-Created for my Bachelor Thesis 
+Created for my Bachelor Thesis
+
+![Image](./Hardware/ZeitMessung.png)
+
+## External Components
+
+- [ESP32 WROOM32](https://www.amazon.de/dp/B0D8635YZ6)
+- [LAN8720 Board](https://www.amazon.de/TECNOIOT-Ethernet-Transceiver-Interface-Development/dp/B07VN9Q4QK)
 
 ## ESP 32 Pinout
 
